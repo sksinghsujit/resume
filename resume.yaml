@@ -1,0 +1,63 @@
+# Resume of Sujit Kumar Singh
+# Generated as a "Cluster Manifest" of 20+ years of Engineering Expertise
+# Source: Dubai, UAE | Contact: +971 50 491 3585 | sksingh.sujit@gmail.com
+
+apiVersion: v1
+kind: InfrastructureArchitect
+metadata:
+  [cite_start]name: Sujit Kumar Singh [cite: 1]
+  [cite_start]location: Dubai, UAE [cite: 1]
+  [cite_start]linkedin: www.linkedin.com/in/sujitkumarsingh [cite: 1]
+  labels:
+    [cite_start]specialization: Red-Hat-Infrastructure-and-Automation [cite: 22]
+    [cite_start]tier: Senior-Technical-Expert [cite: 80]
+    [cite_start]nationality: Indian [cite: 1]
+
+spec:
+  summary: |
+    Infrastructure and Automation Architect with extensive experience in Red Hat OpenShift, 
+    [cite_start]OpenStack, and Kubernetes[cite: 3]. Proven ability to design and automate large-scale 
+    [cite_start]infrastructure using Ansible, Terraform, and Red Hat Advanced Cluster Management[cite: 39, 48]. 
+    Expert in transitioning legacy UNIX workloads (HP-UX, AIX) to modern, AI-enabled 
+    [cite_start]container platforms[cite: 43, 83, 89].
+
+  certifications:
+    - name: Red Hat Certified Architect (RHCA)
+      [cite_start]url: https://www.redhat.com/rhtapps/certification/verify/?certId=150-172-930 [cite: 15]
+    - name: AWS Professional Architect
+      [cite_start]url: https://cp.certmetrics.com/amazon/en/public/verify/credential/97af5a4e344e4e5c9791471d23b65824 [cite: 16]
+    - name: Kubernetes Experts
+      [cite_start]credentials: [CKA, CKAD, CKS] [cite: 18]
+    - name: Networking & ITIL
+      [cite_start]credentials: [CCNA, ITIL v3] [cite: 17]
+
+  currentRole:
+    [cite_start]company: Gulf Business Machines, Dubai [cite: 21]
+    [cite_start]title: Red Hat Infrastructure and Automation Architect [cite: 22]
+    [cite_start]period: April 2022 – Present [cite: 21]
+    core_deliverables:
+      - [cite_start]deployment: "OpenShift OCP with IPI, UPI, and Assisted Installation [cite: 25, 26]"
+      - [cite_start]edge_tech: "Zero Touch Provisioning (ZTP) and Hypershift/HCP [cite: 29, 30]"
+      - [cite_start]virtualization: "Migrating VMs from VMware to Kubevirt using MTV [cite: 40]"
+      - [cite_start]security: "Compliance management via RHACS and Hashicorp Vault [cite: 38, 46]"
+      - [cite_start]ai_ops: "OpenShift AI, Kubeflow Pipelines, and Kserve Model Serving [cite: 43, 44, 45]"
+
+  cloudExperience:
+    - [cite_start]organization: Digital14 LLC [cite: 52]
+      [cite_start]role: Linux Cloud Engineer [cite: 53]
+      [cite_start]stack: [OpenStack, OpenShift, Ansible Tower, RHV, Satellite] [cite: 54]
+    - [cite_start]project: Confidential Government Project (UAE) [cite: 59]
+      [cite_start]focus: "Private on-prem OpenStack Cloud with Nova, Neutron, and Cinder [cite: 62, 66, 71]"
+
+  legacySystemsAppendix:
+    [cite_start]hardware: [HP PA-RISC, Itanium, IBM V7000, Tape Libraries] [cite: 99, 101, 102]
+    [cite_start]unix_flavors: [RHEL, HP-UX, AIX, SCO UNIX, Windows NT/XP] [cite: 83, 109, 113]
+    [cite_start]high_availability: [MC/ServiceGuard, Ignite-UX, VPAR, IVM] [cite: 103]
+
+  education:
+    - [cite_start]degree: MBA (Information Systems) [cite: 12]
+    - [cite_start]degree: Bachelor of Engineering (Electrical Engineering) [cite: 13]
+
+status:
+  [cite_start]availability: Active [cite: 21]
+  [cite_start]learning_path: [Azure Administrator AZ-104, Azure Architect AZ-305] [cite: 19]
